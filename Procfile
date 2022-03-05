@@ -1,1 +1,1 @@
-web:gunicorn run:app
+echo web: gunicorn run:app >> Procfile
